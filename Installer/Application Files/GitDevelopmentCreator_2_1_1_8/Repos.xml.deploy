@@ -51,7 +51,7 @@
     <FolderName>micro-database-management</FolderName>
     <IsLegacy>false</IsLegacy>
     <SolutionName>micro-database-management.sln</SolutionName>
-    <AllowRunMicroservice>true</AllowRunMicroservice>
+    <AllowRunMicroservice>false</AllowRunMicroservice>
     <MicroserviceFolder>micro-database-management</MicroserviceFolder>
     <RepoType>Cloud</RepoType>
   </Repo>
@@ -113,6 +113,13 @@
     <WorkingDir></WorkingDir>
     <FolderName>row-security-objects</FolderName>
     <SolutionName>row-security-objects.sln</SolutionName>
+    <RepoType>Cloud</RepoType>
+  </Repo>
+  <Repo>
+    <Name>OnPremiseScripts</Name>
+    <Url>https://github.com/Microarea/OnPremiseScripts.git</Url>
+    <WorkingDir></WorkingDir>
+    <FolderName>OnPremiseScripts</FolderName>
     <RepoType>Cloud</RepoType>
   </Repo>
   <Repo>
