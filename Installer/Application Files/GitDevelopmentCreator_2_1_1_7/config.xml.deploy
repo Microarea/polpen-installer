@@ -6,8 +6,7 @@
   <GWAMUrl>https://test-gwam.mago.cloud/gwam_app/api</GWAMUrl>
   <GWAMConsoleDomain>DOMAIN-01</GWAMConsoleDomain>
   <InstanceForDeveloperOnly>true</InstanceForDeveloperOnly>
-  <!--<StatsServer>http://54.217.126.170:1400/polpen-statistics/</StatsServer>-->
-  <StatsServer></StatsServer>
+  <StatsServer>http://54.217.126.170:1400/polpen-statistics/</StatsServer>
   <AppId>CC</AppId>
   
   <LibraryProjects>
