@@ -34,9 +34,8 @@
     <WorkingDir></WorkingDir>
     <FolderName>tbw-packages</FolderName>
     <SolutionName>tbw-packages.sln</SolutionName>
-    <RepoType>Cloud</RepoType>
     <Mandatory>true</Mandatory>
-    <AdditionalSolutions>mago-packages.sln;provisioning-packages</AdditionalSolutions>
+    <AdditionalSolutions>mago-packages.sln;provisioning-packages.sln</AdditionalSolutions>
   </Repo> 
   <Repo>
     <Name>TaskBuilder</Name>
@@ -69,18 +68,6 @@
     <Url>https://github.com/Microarea/MagoWebScripts.git</Url>
     <WorkingDir></WorkingDir>
     <FolderName>MagoWebScripts</FolderName>
-    <RepoType>Cloud</RepoType>
-  </Repo>
-  <Repo>
-    <Name>mw-console</Name>
-    <Url>https://github.com/Microarea/mw-console.git</Url>
-    <WorkingDir></WorkingDir>
-    <Mandatory>false</Mandatory>
-    <FolderName>mw-console</FolderName>
-    <IsLegacy>false</IsLegacy>
-    <SolutionName>mw-console.sln</SolutionName>
-    <AllowRunMicroservice>false</AllowRunMicroservice>
-    <MicroserviceFolder>mw-console</MicroserviceFolder>
     <RepoType>Cloud</RepoType>
   </Repo>
   <Repo>

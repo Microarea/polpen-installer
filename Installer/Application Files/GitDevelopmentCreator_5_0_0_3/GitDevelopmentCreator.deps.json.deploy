@@ -1791,11 +1791,6 @@
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
-        },
-        "resources": {
-          "it-IT/PolpenBase.resources.dll": {
-            "locale": "it-IT"
-          }
         }
       },
       "AdysTech.CredentialManager/2.6.0.0": {
