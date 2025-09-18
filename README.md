@@ -7,7 +7,7 @@ Also be sure to have valid "provisioning credentials": they'll be needed in a mo
 You can install the tool by downloading the setup from the following url
 
 
-[setup](https://raw.githubusercontent.com/Microarea/polpen-installer/gh-pages/Installer/setup.exe)
+[setup](https://raw.githubusercontent.com/Microarea/polpen-installer/gh-pages/setup.exe)
 
 This setup is an auto-updatable clickonce application.
 
