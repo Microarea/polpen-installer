@@ -4,12 +4,15 @@ Welcome to the GitDevelopmentCreator tool installation guide.
 Before starting with the following steps, be sure to have a github account associated to this organization, capable to accessing private repositories
 Also be sure to have valid "provisioning credentials": they'll be needed in a moment
 
+### Visual Studio configuration 3
+
 Also you need some additional components in your Visual Studio installation: here are the steps to "import" the configuration needed
 Download this configuration [file](https://github.com/Microarea/polpen-installer/blob/ecd9a56689c3692b3487acfe995ee95444522204/.vsconfig)
 Open Visual Studio Installer
 Click on the "other" button, choose "Import configuration"
 Select the previously downloaded file and click on the "examine details": in the next window, click on the "Modify" button and wait for the changes in configuration
 
+### Downloading and using GitDevelopmentManager 3
 
 You can install the tool by downloading the setup from the following url
 
