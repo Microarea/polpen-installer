@@ -26,7 +26,7 @@ After the first run, you will be prompted to insert your provisioning crendentia
 ![1](https://user-images.githubusercontent.com/23628484/203728119-f4936d3b-e09c-4d74-a37f-001131be3173.PNG)
 
 After the credentials validation, the GitDevelopmentCreator will proceed to check (and install if needed) for some basic requirements.
-For the complete list of prerequisites, check the following [link]https://zucchettioffice365.sharepoint.com/sites/MagoCloudComunicazioni/SitePages/Development-Environment-Installation.aspx
+For the complete list of prerequisites, check the following [link](https://zucchettioffice365.sharepoint.com/sites/MagoCloudComunicazioni/SitePages/Development-Environment-Installation.aspx)
 
 ![3](https://user-images.githubusercontent.com/23628484/203728133-b8cf1c9c-9de9-494a-8846-0a5506f64798.PNG)
 
