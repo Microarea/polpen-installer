@@ -9,7 +9,6 @@
     "Component.VisualStudio.GitHub.Copilot",
     "Microsoft.Component.ClickOnce",
     "Microsoft.Component.MSBuild",
-    "Microsoft.Component.VC.Runtime.UCRTSDK",
     "Microsoft.ComponentGroup.Blend",
     "Microsoft.ComponentGroup.ClickOnce.Publish",
     "Microsoft.Net.Component.4.6.1.TargetingPack",
